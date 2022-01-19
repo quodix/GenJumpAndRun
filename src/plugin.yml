@@ -1,0 +1,4 @@
+name: GenJumpAndRun
+author: quodix
+main: de.quodix.jumpandrun.main.GenJumpAndRun
+version: 1.0.0.1
